@@ -4,7 +4,7 @@
 
 ## Descripción
 
-En esta escena se han utilizado varios objetos 3D básicos, incluyendo un cubo, una esfera y un cilindro. Los scripts implementados permiten manipular estos objetos de diversas maneras, como cambiar sus posiciones y colores, así como obtener información sobre ellos.
+En esta escena se han utilizado varios objetos 3D básicos, un cubo, esferas y un cilindro. Los scripts implementados permiten manipular estos objetos de diversas maneras, como cambiar sus posiciones y colores, así como obtener información sobre ellos.
 
 ---
 
