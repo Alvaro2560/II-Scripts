@@ -39,7 +39,7 @@ public class ColorChanger : MonoBehaviour
         Random.Range(0f, 1f)
     );
 
-    // Convertimos el Vector3 a Color
+    // Se convierte el Vector3 a Color
     Color nuevoColor = new Color(colorVector.x, colorVector.y, colorVector.z);
 
     m_Material.color = nuevoColor;
